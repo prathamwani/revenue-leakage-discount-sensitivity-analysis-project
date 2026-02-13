@@ -72,7 +72,7 @@ The interactive dashboard highlights:
 ## Analysis Visualizations
 
 ### Profit by Category
-![Profit by Category](images/category_profit.png)
+![Profit by Category](images/Profit_by_Category_bar_chart.png)
 
 ### Profit by Sub-Category
 ![Profit by Sub-Category](images/subcategory_profit.png)
