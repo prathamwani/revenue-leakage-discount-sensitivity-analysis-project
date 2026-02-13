@@ -1,4 +1,3 @@
-# revenue-leakage-discount-sensitivity-analysis-project
 # Revenue Leakage Analysis using SQL, Python, and Power BI
 
 ## Project Overview
