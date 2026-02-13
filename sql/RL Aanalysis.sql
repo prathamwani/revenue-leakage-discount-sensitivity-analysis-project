@@ -1,5 +1,5 @@
--- CREATE DATABASE revenue_leakage;
--- USE revenue_leakage
+CREATE DATABASE revenue_leakage;
+USE revenue_leakage
 
 CREATE TABLE orders (
     order_id VARCHAR(50),
